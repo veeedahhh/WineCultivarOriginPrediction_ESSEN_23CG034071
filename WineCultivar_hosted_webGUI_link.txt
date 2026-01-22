@@ -2,6 +2,6 @@ Name: ESSEN DAVIDA TOROABASI
 Matric Number: 23CG034071
 Machine Learning Algorithm Used: Support Vector Machine (SVM)
 Model Persistence Method: Joblib
-Live URL: 
+Live URL: https://2eyqx2td29crmlyvkqpjz3.streamlit.app/
 
-GitHub Repository:
+GitHub Repository:https://github.com/veeedahhh/WineCultivarOriginPrediction_ESSEN_23CG034071/
